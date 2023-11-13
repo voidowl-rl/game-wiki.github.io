@@ -1,0 +1,9 @@
+- label: Menu
+  items:
+    - name: Start
+      link: /
+    - name: Seiten
+      link: #
+      items:
+        - name: Zeitplan
+          link: /Zeitplan
