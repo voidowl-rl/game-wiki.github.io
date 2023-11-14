@@ -22,9 +22,17 @@ title: Programmierprojekt Wiki
 description: Kurze Infoseite zum Programmierprojekt WPU 10
 show_downloads: false
 lang: de
-comments: false
-show_sidebar: false
-menubar: menu
+permalink: pretty
+
+defaults:
+ -
+   scope:
+     path: ""
+   values:
+     comments: false
+     show_sidebar: false
+     menubar: menu
+     hide_footer: true
 
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme

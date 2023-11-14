@@ -2,8 +2,16 @@
   items:
     - name: Start
       link: /
-    - name: Seiten
+    - name: Hintergrundwissen
       link: #
       items:
-        - name: Zeitplan
-          link: /Zeitplan
+        - name: Empfohlener Zeitplan
+          link: /Zeitplan/
+        - name: Kanban-Board
+          link: /Kanban/
+        - name: Pair-Programming
+          link: /PairProgramming/
+        - name: Stand-Up-Meeting
+          link: /Standup/
+        - name: UML-Diagramme
+          link: /UML/
