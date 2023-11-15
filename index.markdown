@@ -7,9 +7,13 @@
 
 Auf dieser Seite und den Unterseiten, die du auf der linken Seite einsehen kannst, findest du Informationen zum Ablauf und zu den Inhalten der Projektarbeit zur Erstellung eines Mini-Spiels im Rahmen des WPU 10 Informatiks.
 
+Beginnt jede Stunde mit einem [Standup](/Standup/)!
+
 ### Aufgabenstellung
 
-Nutze das verlinkte Starterprojekt, um im Rahmen der nächsten fünf Wochen das Spiel, welches im Szenario beschrieben, zusammen mit deinem Team umzusetzen. Achte darauf, dass du und dein Team euch beim Planen, Umsetzen und Testen an die Phasen der Projektarbeit haltet: Beginnt jede neue Woche mit einem kurzem Stand-Up, erstellt und verteilt Aufgaben auf eurem Kanban-Board und setzt diese Aufgaben dann in Partnerarbeit (bzw. mithilfe von Pair-Programming) um.
+Nutze das verlinkte [Starterprojekt](DungeonCrawler.zip), um im Rahmen der nächsten fünf Wochen das Spiel, welches im [Szenario](/Szenario/) beschrieben wurde, zusammen mit deinem Team umzusetzen. Achte darauf, dass du und dein Team euch beim Planen, Umsetzen und Testen an die Phasen der Projektarbeit haltet: Beginnt jede neue Woche mit einem kurzem Stand-Up, erstellt und verteilt Aufgaben auf eurem Kanban-Board und setzt diese Aufgaben dann in Partnerarbeit (bzw. mithilfe von Pair-Programming) um.
+
+### Ablauf
 
 In dieser Projektarbeit vollziehst du, indem du die oben genannten Phasen anwendest, eine Iteration einer agilen Entwicklungsmethode wie z.B. Scrum:
 
