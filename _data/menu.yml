@@ -1,7 +1,14 @@
-- label: Menu
+- label: Menü
   items:
     - name: Start
       link: /
+    - name: Aufgabe
+      link: #
+      items:
+        - name: Aufgabenstellung
+          link: /Aufgabe/
+        - name: Szenariobeschreibung
+          link: /Szenario/
     - name: Hintergrundwissen
       link: #
       items:
@@ -15,3 +22,8 @@
           link: /Standup/
         - name: UML-Diagramme
           link: /UML/
+    - name: Hilfestellungen
+      link: #
+      items:
+        - name: Klassenkarten
+          link: /Hilfe/Klassenkarte/

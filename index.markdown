@@ -7,7 +7,9 @@
 
 Auf dieser Seite und den Unterseiten, die du auf der linken Seite einsehen kannst, findest du Informationen zum Ablauf und zu den Inhalten der Projektarbeit zur Erstellung eines Mini-Spiels im Rahmen des WPU 10 Informatiks.
 
-Beginnt jede Stunde mit einem [Standup](/Standup/)!
+Die Inhalte unter dem Menüpunkt "Hilfestellungen" werden regelmäßig erweitert.
+
+**Beginnt jede Stunde mit einem [Standup](/Standup/)!**
 
 ### Aufgabenstellung
 
