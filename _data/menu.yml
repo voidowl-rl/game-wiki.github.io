@@ -25,5 +25,7 @@
     - name: Hilfestellungen
       link: #
       items:
+        - name: Wo beginnen?
+          link: /Hilfe/Beginn/
         - name: Klassenkarten
           link: /Hilfe/Klassenkarte/
