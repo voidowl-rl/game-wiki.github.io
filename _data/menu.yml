@@ -29,3 +29,5 @@
           link: /Hilfe/Beginn/
         - name: Klassenkarten
           link: /Hilfe/Klassenkarte/
+        - name: Die Karte einlesen und ausgeben
+          link: /Hilfe/Karte/
