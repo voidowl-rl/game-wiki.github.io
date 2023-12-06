@@ -7,9 +7,19 @@
 
 Auf dieser Seite und den Unterseiten, die du auf der linken Seite einsehen kannst, findest du Informationen zum Ablauf und zu den Inhalten der Projektarbeit zur Erstellung eines Mini-Spiels im Rahmen des WPU 10 Informatiks.
 
-Die Inhalte unter dem Menüpunkt "Hilfestellungen" werden regelmäßig erweitert.
+<br>
+<p style="text-align: center;"><strong>Beachtet in jeder Stunde die vier wichtigen Punkte der Projektarbeit</strong></p>
 
-**Beginnt jede Stunde mit einem [Standup](/Standup/)!**
+<table style="font-size: 30px">
+<tr>
+<td>Stand-Up</td>
+<td style="text-align: right;">Kanban-Board</td>
+</tr>
+<tr>
+<td>Pair-Programming</td>
+<td style="text-align: right;">Dokumentation</td>
+</tr>
+</table>
 
 ### Aufgabenstellung
 

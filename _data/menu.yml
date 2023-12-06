@@ -22,7 +22,9 @@
           link: /Standup/
         - name: UML-Diagramme
           link: /UML/
-    - name: Hilfestellungen
+        - name: Dokumentation
+          link: /Dokumentation/
+    - name: Unterstützung
       link: #
       items:
         - name: Wo beginnen?
@@ -31,3 +33,10 @@
           link: /Hilfe/Klassenkarte/
         - name: Die Karte einlesen und ausgeben
           link: /Hilfe/Karte/
+        - name: Zwischenprojekt
+          link: /Hilfe/Zwischenprojekt/
+        - name: Der Spielerzug (Teil A)
+          link: /Hilfe/SpielerA/
+        - name: Der Spielerzug (Teil B)
+          link: /Hilfe/SpielerB/
+          
