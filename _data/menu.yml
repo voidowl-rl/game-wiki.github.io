@@ -35,8 +35,13 @@
           link: /Hilfe/Karte/
         - name: Zwischenprojekt
           link: /Hilfe/Zwischenprojekt/
+        - name: Die Zugabfolge
+          link: /Hilfe/Zugabfolge/
         - name: Der Spielerzug (Teil A)
           link: /Hilfe/SpielerA/
         - name: Der Spielerzug (Teil B)
           link: /Hilfe/SpielerB/
-          
+        - name: Der Gegnerzug
+          link: /Hilfe/Gegner/
+        - name: Musterlösung
+          link: /Hilfe/Muster/

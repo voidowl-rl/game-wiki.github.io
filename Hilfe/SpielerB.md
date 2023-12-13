@@ -45,3 +45,16 @@ Der Angriff funktioniert ähnlich zu dem Einsammeln von Münzen. Statt zu überp
 Die Position über, unter, links und rechts neben dem Spieler muss mit den lebenden Gegnern abgeglichen werden.
 Wenn ein Gegner auf diesen Positionen steht muss die greifeAn-Funktion ausgeführt werden.
 </details>
+<br>
+
+<details markdown="1">
+<summary>Welche Attribute benötigt der Spieler insgesamt?</summary>
+1. Leben
+2. Schaden
+3. X-Position
+4. Y-Position
+5. IstTot
+6. GesammelteMuenzen
+</details>
+
+
